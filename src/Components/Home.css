@@ -1,0 +1,41 @@
+.homeimg{
+    width: 30%;
+    height: 50%;
+    float: right;
+    margin-right: 10px;
+
+}
+.homeimg > img{
+    width: 70%;
+    height: 70%;
+    margin-right: 100px;
+
+}
+
+.homeimg2{
+    width:30%;
+    height: 50%;
+    margin-left: 10px;
+    float: left;
+}
+
+.homeimg2 > img{
+    width: 70%;
+    height: 80%;
+    float: right;
+}
+
+.intro{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    height: 70px;
+}
+
+.intro > h3{
+    font-size: 2rem;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:  rgb(8, 8, 107);
+
+}
